@@ -1,18 +1,14 @@
-### Oie! Eu sou a Letícia Calixto 👋
+### *Oie! Eu sou a Letícia Calixto* 👋
 
 <div>
-  <img align="right" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" height="120" width="120" src="https://cdn.discordapp.com/attachments/730223573641461870/887014589588455494/Webp.net-gifmaker_1.gif">
 <div>
   
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim:
+
+- 👨‍💻 Estudante de engenharia de Computação no Instituto Nacional de Telecomunicações.
+- 👨‍🎓 Técnica em Eletrônica com ênfase em Automação Industrial.
+- 🎮 Dota 2, Valorant, Fortnite, Minecraft
 
 <div>
   <a href="https://github.com/leticiacalixto">
@@ -38,5 +34,3 @@
  	<a href="https://www.twitch.tv/leticinhacx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Letícia#5328" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/leticiacalixto/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  
-  
