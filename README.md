@@ -2,14 +2,13 @@
 
 <div>
   <img align="right" height="120" width="120" src="https://cdn.discordapp.com/attachments/730223573641461870/887014589588455494/Webp.net-gifmaker_1.gif">
-
+</div>
   
 ### Sobre mim:
 
 - 👨‍💻 Estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações.
 - 👨‍🎓 Técnica em Eletrônica com ênfase em Automação Industrial.
 - 🎮 Dota 2, Valorant, Fortnite, Minecraft
-  </div>
 
 <div>
   <a href="https://github.com/leticiacalixto">
