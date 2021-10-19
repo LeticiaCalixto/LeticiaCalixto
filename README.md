@@ -6,7 +6,7 @@
   
 ### Sobre mim:
 
-- 👨‍💻 Estudante de engenharia de Computação no Instituto Nacional de Telecomunicações.
+- 👨‍💻 Estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações.
 - 👨‍🎓 Técnica em Eletrônica com ênfase em Automação Industrial.
 - 🎮 Dota 2, Valorant, Fortnite, Minecraft
 
