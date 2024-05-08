@@ -6,7 +6,7 @@
   
 ### Sobre mim:
 
-- 👨‍💻 Estudante de Engenharia de Computação no Instituto Nacional de Telecomunicações.
+- 👨‍💻 Formada em Engenharia de Computação no Instituto Nacional de Telecomunicações.
 - 👨‍🎓 Técnica em Eletrônica com ênfase em Automação Industrial.
 - 🎮 Dota 2, Valorant, Fortnite, Minecraft
 
@@ -18,6 +18,8 @@
   
   ## Skills:
 <p align="center"><br>
+  <img height="48" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img height="48" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg">
   <img height="48" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img height="60" width="140" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img height="50" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
