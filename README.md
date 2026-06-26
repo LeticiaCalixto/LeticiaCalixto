@@ -8,7 +8,7 @@
 
 - 👨‍💻 Formada em Engenharia de Computação no Instituto Nacional de Telecomunicações.
 - 👨‍🎓 Técnica em Eletrônica com ênfase em Automação Industrial.
-- 🎮 Dota 2, Valorant, Fortnite, Minecraft
+- 🎮 Dota, Valorant, Fortnite, Minecraft
 
 <div>
   <a href="https://github.com/leticiacalixto">
